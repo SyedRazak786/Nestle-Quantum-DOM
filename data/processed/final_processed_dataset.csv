@@ -1,0 +1,4 @@
+order_id,customer_x,warehouse_x,customer_y,warehouse_y
+1,Alice,Warehouse A,,
+2,Bob,Warehouse B,,
+3,,,Charlie,Warehouse C
