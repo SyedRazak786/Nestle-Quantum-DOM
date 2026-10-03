@@ -8,6 +8,7 @@ Quantum Optimization for Distributed Order Management
 - SIARAMA AVINASH
 - RAVIPATI KARTHIK
 - GUNJA RAVICHANDRA
+- SYED RAZAK
 
 WISER Global Quantum + AI Program 2026
 
